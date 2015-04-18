@@ -1,0 +1,13 @@
+Python/matplotlib-driven TISE solver
+
+display PD graphs (given n as input)
+
+ideally, user specifies arbitrary one or two-dimensional barrier configuration
+
+step 1: build for 1D inputs (start with particle-in-a-box model)
+    -input length of box and quantum number n
+
+
+TO DO:
+------
+* setup github project
